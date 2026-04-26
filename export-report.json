@@ -1,0 +1,22 @@
+{
+  "source": "https://v0-gps-speed-detector.vercel.app/",
+  "exportedAt": "2026-04-26T19:44:28.452Z",
+  "totalFiles": 13,
+  "failedCount": 0,
+  "failedResources": [],
+  "fileList": [
+    "assets/fonts/4fa387ec64143e14-s.0q3udbd2bu5yp.woff2",
+    "assets/fonts/7178b3e590c64307-s.11.cyxs5p-0z_.woff2",
+    "assets/fonts/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
+    "assets/fonts/8a480f0b521d4e75-s.06d3mdzz5bre_.woff2",
+    "assets/fonts/bbc41e54d2fcbd21-s.0gw_uztddq1df.woff2",
+    "assets/fonts/caa3a2e1cccd8315-s.p.16t1db8_9y2o_.woff2",
+    "assets/images/apple-icon.png",
+    "assets/images/icon-dark-32x32.png",
+    "assets/images/icon-light-32x32.png",
+    "assets/images/icon.svg",
+    "assets/scripts.js",
+    "assets/styles.css",
+    "index.html"
+  ]
+}
